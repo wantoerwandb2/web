@@ -1,0 +1,8 @@
+{
+  "name": "BioKarsa STEM Medika",
+  "description": "Platform proyek STEM terintegrasi kesehatan holistik mencakup Biologi, Fisika, Kimia, Matematika, PJOK, dan Bahasa Indonesia dengan simulasi interaktif dan penjelasan komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
